@@ -27,10 +27,13 @@ Extracting the Downloaded GLPI Archive: <br/>
 <img src="https://i.imgur.com/2WJn2KH.png" height="80%" width="80%" alt="Extracting GLPI"/>
 <br />
 <br />
-Manually View John’s Pot File (optional):  <br/>
-<img src="https://i.imgur.com/zHH23el.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
+Verify the Downloaded GLPI.tgz File Location:  <br/>
+<img src="https://i.imgur.com/fOGDOUP.png" height="80%" width="80%" alt="Downloaded GLPI.tgz Location"/>
 <br />
 <br />
+Verify the Downloaded GLPI.tgz File Location:  <br/>
+<img src="https://i.imgur.com/fOGDOUP.png" height="80%" width="80%" alt="Downloaded GLPI.tgz Location"/>
+ 
 </p>
 
 <!--
