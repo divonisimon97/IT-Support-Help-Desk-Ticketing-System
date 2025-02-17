@@ -19,12 +19,12 @@ Installing Dependencies: <br/>
 <img src="https://i.imgur.com/A9MP2Dg.png" height="80%" width="80%" alt="Install Dependencies"/>
 <br />
 <br />
-Installing the GLPI Help Desk System: <br/>
-<img src="https://i.imgur.com/QuDGxwL.png" height="80%" width="80%" alt="Install the Help Desk System"/>
+Downloading GLPI: <br/>
+<img src="https://i.imgur.com/YomPyIi.png" height="80%" width="80%" alt="Download GLPI"/>
 <br />
 <br />
-Run John the Ripper with the RockYou wordlist: <br/>
-<img src="https://i.imgur.com/Kg25VVo.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
+Extracting the Downloaded GLPI Archive: <br/>
+<img src="https://i.imgur.com/Kg25VVo.png" height="80%" width="80%" alt="Extracting GLPI"/>
 <br />
 <br />
 Manually View John’s Pot File (optional):  <br/>
