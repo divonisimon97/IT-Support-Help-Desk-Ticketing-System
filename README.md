@@ -35,8 +35,12 @@ Verify the GLPI Contents inside /var/www/html/glpi:  <br/>
 <img src="https://i.imgur.com/6cuLNqk.png" height="80%" width="80%" alt="Downloaded GLPI.tgz Location"/>
 <br />
 <br />
-Setting the Correct Permissions:  <br/>
-<img src="https://i.imgur.com/EKiufOW.png" height="80%" width="80%" alt="Set the Correct Permissions"/>
+Setting Permissions for the Web Server:  <br/>
+<img src="https://i.imgur.com/EKiufOW.png" height="80%" width="80%" alt="Set the Web Server Permissions"/>
+<br />
+<br />
+Setting Permissions for Directory & Files:  <br/>
+<img src="https://i.imgur.com/e6LHd7d.png" height="80%" width="80%" alt="Set the Directory & File Permissions"/>
  
 </p>
 
