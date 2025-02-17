@@ -35,8 +35,8 @@ Verify the GLPI Contents inside /var/www/html/glpi:  <br/>
 <img src="https://i.imgur.com/6cuLNqk.png" height="80%" width="80%" alt="Downloaded GLPI.tgz Location"/>
 <br />
 <br />
-Verify the Downloaded GLPI.tgz File Location:  <br/>
-<img src="https://i.imgur.com/fOGDOUP.png" height="80%" width="80%" alt="Downloaded GLPI.tgz Location"/>
+Setting the Correct Permissions:  <br/>
+<img src="https://i.imgur.com/EKiufOW.png" height="80%" width="80%" alt="Set the Correct Permissions"/>
  
 </p>
 
