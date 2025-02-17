@@ -23,12 +23,16 @@ Downloading GLPI: <br/>
 <img src="https://i.imgur.com/YomPyIi.png" height="80%" width="80%" alt="Download GLPI"/>
 <br />
 <br />
-Extracting the Downloaded GLPI Archive: <br/>
+Verify the Downloaded GLPI.tgz File Location:  <br/>
+<img src="https://i.imgur.com/fOGDOUP.png" height="80%" width="80%" alt="Downloaded GLPI.tgz Location"/>
+<br />
+<br />
+Extracting the GLPI Archive into /var/www/html/: <br/>
 <img src="https://i.imgur.com/2WJn2KH.png" height="80%" width="80%" alt="Extracting GLPI"/>
 <br />
 <br />
-Verify the Downloaded GLPI.tgz File Location:  <br/>
-<img src="https://i.imgur.com/fOGDOUP.png" height="80%" width="80%" alt="Downloaded GLPI.tgz Location"/>
+Verify the GLPI Contents inside /var/www/html/glpi:  <br/>
+<img src="https://i.imgur.com/6cuLNqk.png" height="80%" width="80%" alt="Downloaded GLPI.tgz Location"/>
 <br />
 <br />
 Verify the Downloaded GLPI.tgz File Location:  <br/>
