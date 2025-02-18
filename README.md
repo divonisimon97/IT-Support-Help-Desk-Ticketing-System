@@ -51,8 +51,8 @@ Starting and Enabling the Maria Database Service:  <br/>
 <img src="https://i.imgur.com/f0s9VIV.png" height="80%" width="80%" alt="Start and enable the Maria database"/>
 <br />
 <br />
-Starting and Enabling the Maria Database Service:  <br/>
-<img src="https://i.imgur.com/f0s9VIV.png" height="80%" width="80%" alt="Start and enable the Maria database"/>
+Opening MariaDB & Creating a Database:  <br/>
+<img src="https://i.imgur.com/hgFsBIo.png" height="80%" width="80%" alt="Open MariaDB & Create a Database"/>
 
 
 
