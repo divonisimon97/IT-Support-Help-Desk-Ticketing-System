@@ -41,7 +41,21 @@ Setting Permissions for the Web Server:  <br/>
 <br />
 Setting Permissions for Directory & Files:  <br/>
 <img src="https://i.imgur.com/e6LHd7d.png" height="80%" width="80%" alt="Set the Directory & File Permissions"/>
- 
+<br />
+<br />
+Verifying Permissions for Directory & Files:  <br/>
+<img src="https://i.imgur.com/ObpVH5P.png" height="80%" width="80%" alt="Set the Directory & File Permissions"/>
+<br />
+<br />
+Starting and Enabling the Maria Database Service:  <br/>
+<img src="https://i.imgur.com/f0s9VIV.png" height="80%" width="80%" alt="Start and enable the Maria database"/>
+<br />
+<br />
+Starting and Enabling the Maria Database Service:  <br/>
+<img src="https://i.imgur.com/f0s9VIV.png" height="80%" width="80%" alt="Start and enable the Maria database"/>
+
+
+
 </p>
 
 <!--
