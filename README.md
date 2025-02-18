@@ -53,7 +53,10 @@ Starting and Enabling the Maria Database Service:  <br/>
 <br />
 Opening MariaDB & Creating a Database:  <br/>
 <img src="https://i.imgur.com/hgFsBIo.png" height="80%" width="80%" alt="Open MariaDB & Create a Database"/>
-
+<br />
+<br />
+Creating a Dedicated User & Granting Permissions to the GLPI User:  <br/>
+<img src="https://i.imgur.com/Tfm511x.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
 
 
 </p>
