@@ -35,10 +35,25 @@ Installing PHP Extentions for GLPI:  <br/>
 <img src="https://i.imgur.com/IUYaJrx.png" height="80%" width="80%" alt="Downloaded GLPI.tgz Location"/>
 <br />
 <br />
- 
- 
- 
- 
+Starting and Enabling the Maria Database Service:  <br/>
+<img src="https://i.imgur.com/f0s9VIV.png" height="80%" width="80%" alt="Start and enable the Maria database"/>
+<br />
+<br />
+Opening MariaDB & Creating a Database:  <br/>
+<img src="https://i.imgur.com/hgFsBIo.png" height="80%" width="80%" alt="Open MariaDB & Create a Database"/>
+<br />
+<br />
+Creating a Dedicated User & Granting Permissions to the GLPI User:  <br/>
+<img src="https://i.imgur.com/Tfm511x.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
+<br />
+<br />
+Go to /var/www/html Directory and List Permissions:  <br/>
+<img src="https://i.imgur.com/uD5ATva.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
+<br />
+<br />
+Download GLPI in /var/www/html Directory:  <br/>
+<img src="https://i.imgur.com/PjkQKPS.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
+
  
  
  
