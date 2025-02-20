@@ -53,8 +53,18 @@ Go to /var/www/html Directory and List Permissions:  <br/>
 <br />
 Download GLPI in /var/www/html Directory:  <br/>
 <img src="https://i.imgur.com/PjkQKPS.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
-
- 
+<br />
+<br />
+Checking Directory Permissions:  <br/>
+<img src="https://i.imgur.com/ARhxMCU.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
+<br />
+<br />
+Changing Ownership & Permissions in GLPI Directory:  <br/>
+<img src="https://i.imgur.com/hs4qYGE.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
+<br />
+<br />
+Restarting Apache2:  <br/>
+<img src="https://i.imgur.com/DgQQ0l5.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
  
  
  
