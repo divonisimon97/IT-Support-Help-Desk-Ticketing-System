@@ -15,12 +15,12 @@ In this project, I focus on creating a ticketing system. The goal is to set up a
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Installing Dependencies: <br/>
-<img src="https://i.imgur.com/A9MP2Dg.png" height="80%" width="80%" alt="Install Dependencies"/>
+Updating System w/ Dependencies: <br/>
+<img src="https://i.imgur.com/vo8TcsF.png" height="80%" width="80%" alt="Install Dependencies"/>
 <br />
 <br />
-Downloading GLPI: <br/>
-<img src="https://i.imgur.com/YomPyIi.png" height="80%" width="80%" alt="Download GLPI"/>
+Ensuring the LAMP stack is installed: <br/>
+<img src="https://i.imgur.com/VnGcQqn.png" height="80%" width="80%" alt="Download GLPI"/>
 <br />
 <br />
 Verify the Downloaded GLPI.tgz File Location:  <br/>
