@@ -85,6 +85,14 @@ Then Fix Permissions:  <br/>
 <br />
 NOW You Have Access to GLPI:  <br/>
 <img src="https://i.imgur.com/55QQz2X.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
+<br />
+<br />
+Install & Ensure PHP Installations:  <br/>
+<img src="https://i.imgur.com/a5EdS50.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
+
+
+
+
  
  
 Verify the GLPI Contents inside /var/www/html/glpi:  <br/>
