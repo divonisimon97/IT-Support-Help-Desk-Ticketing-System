@@ -69,11 +69,22 @@ Restarting Apache2:  <br/>
 <br />
 Checking IP Address:  <br/>
 <img src="https://i.imgur.com/DgQQ0l5.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
- 
- 
- 
- 
- 
+<br />
+<br />
+*** MAJOR UPDATE *** (the GLPI web server refused to connect until I...):  <br/>
+<img src="https://i.imgur.com/csvTCVn.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
+<br />
+<br />
+Inside the Configuration File, Ensure the Document Root Matches the Directory that the GLPI is in:  <br/>
+<img src="https://i.imgur.com/mcLclTK.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
+<br />
+<br />
+Then Fix Permissions:  <br/>
+<img src="https://i.imgur.com/rOYvBa8.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
+<br />
+<br />
+NOW You Have Access to GLPI:  <br/>
+<img src="https://i.imgur.com/55QQz2X.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
  
  
 Verify the GLPI Contents inside /var/www/html/glpi:  <br/>
