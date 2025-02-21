@@ -14,6 +14,8 @@ This project showcases the setup of a help desk ticketing system using MariaDB a
 - <b>Localhost </b> 
 <br />
 - <b>Linux</b> (6.11.2)
+<br />
+- <b>Apache</b> (2.4.63)
 
 <h2>Program walk-through:</h2>
 
