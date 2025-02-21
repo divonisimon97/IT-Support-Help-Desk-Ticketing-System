@@ -89,10 +89,22 @@ NOW You Have Access to GLPI:  <br/>
 <br />
 Install & Ensure PHP Installations:  <br/>
 <img src="https://i.imgur.com/a5EdS50.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
-
-
-
-
+<br />
+<br />
+Database Connection Setup:  <br/>
+<img src="https://i.imgur.com/vGI4vVk.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
+<br />
+<br />
+Inside the config_db.php file, add the MariaDB connection details:  <br/>
+<img src="https://i.imgur.com/Z9ZoJD8.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
+<br />
+<br />
+Set Permissions on config-db.php & glpicrypt.key Files:  <br/>
+<img src="https://i.imgur.com/fzhUDv0.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
+<br />
+<br />
+Enable Permissions Match the User & Type USE (your_database_name_here):  <br/>
+<img src="https://i.imgur.com/YTnkPKh.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
  
  
 Verify the GLPI Contents inside /var/www/html/glpi:  <br/>
