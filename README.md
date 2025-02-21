@@ -105,35 +105,23 @@ Set Permissions on config-db.php & glpicrypt.key Files:  <br/>
 <br />
 Enable Permissions Match the User & Type USE (your_database_name_here):  <br/>
 <img src="https://i.imgur.com/YTnkPKh.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
- 
- 
-Verify the GLPI Contents inside /var/www/html/glpi:  <br/>
-<img src="https://i.imgur.com/6cuLNqk.png" height="80%" width="80%" alt="Downloaded GLPI.tgz Location"/>
 <br />
 <br />
-Setting Permissions for the Web Server:  <br/>
-<img src="https://i.imgur.com/EKiufOW.png" height="80%" width="80%" alt="Set the Web Server Permissions"/>
+Proceed to Last Installation Page:  <br/>
+<img src="https://i.imgur.com/MDfIBCr.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
 <br />
 <br />
-Setting Permissions for Directory & Files:  <br/>
-<img src="https://i.imgur.com/e6LHd7d.png" height="80%" width="80%" alt="Set the Directory & File Permissions"/>
+Login to GLPI w/ Default Credentials:  <br/>
+<img src="https://i.imgur.com/ytvmR9D.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
+<img src="https://i.imgur.com/UKrexYf.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
 <br />
 <br />
-Verifying Permissions for Directory & Files:  <br/>
-<img src="https://i.imgur.com/ObpVH5P.png" height="80%" width="80%" alt="Set the Directory & File Permissions"/>
+Remove the install.php File in the Install Directory & Restart Apache:  <br/>
+<img src="https://i.imgur.com/ztt2gk0.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
 <br />
 <br />
-Starting and Enabling the Maria Database Service:  <br/>
-<img src="https://i.imgur.com/f0s9VIV.png" height="80%" width="80%" alt="Start and enable the Maria database"/>
-<br />
-<br />
-Opening MariaDB & Creating a Database:  <br/>
-<img src="https://i.imgur.com/hgFsBIo.png" height="80%" width="80%" alt="Open MariaDB & Create a Database"/>
-<br />
-<br />
-Creating a Dedicated User & Granting Permissions to the GLPI User:  <br/>
-<img src="https://i.imgur.com/Tfm511x.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
-
+Done!:  <br/>
+<img src="https://i.imgur.com/0HqHzax.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
 
 </p>
 
