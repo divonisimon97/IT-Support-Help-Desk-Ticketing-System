@@ -7,6 +7,8 @@ In this project, I focus on creating a ticketing system. The goal is to set up a
 
 <h2>Languages and Utilities Used</h2>
 - <b>GLPI </b> (10.0.18) 
+<br />
+- <b>MariaDB </b> (11.4.4) 
 
 <h2>Environments Used </h2>
 
