@@ -1,7 +1,7 @@
 # <h1>IT Support Help Desk Ticketing System </h1>
 
 <h2>Description</h2>
-In this project, I focus on creating a ticketing system. The goal is to set up a help desk ticketing system to track and manage IT support requests.
+In this project, I focus on creating a ticketing system using MariaDB on a Apache web server assigned to a localhost. The goal is to set up a help desk ticketing system to track and manage IT support requests.
 <br />
 
 
@@ -18,23 +18,23 @@ In this project, I focus on creating a ticketing system. The goal is to set up a
 
 <p align="center">
 Updating System w/ Dependencies: <br/>
-<img src="https://i.imgur.com/vo8TcsF.png" height="80%" width="80%" alt="Install Dependencies"/>
+<img src="https://i.imgur.com/vo8TcsF.png" height="80%" width="80%" alt="Updating System w/ Dependencies"/>
 <br />
 <br />
 Ensuring the LAMP stack is installed: <br/>
-<img src="https://i.imgur.com/VnGcQqn.png" height="80%" width="80%" alt="Download GLPI"/>
+<img src="https://i.imgur.com/VnGcQqn.png" height="80%" width="80%" alt="Ensuring the LAMP stack"/>
 <br />
 <br />
 Ensuring the MariaDB is installed:  <br/>
-<img src="https://i.imgur.com/0D4jUiI.png" height="80%" width="80%" alt="Downloaded GLPI.tgz Location"/>
+<img src="https://i.imgur.com/0D4jUiI.png" height="80%" width="80%" alt="Ensuring the MariaDB"/>
 <br />
 <br />
 Checking if PHP is Installed: <br/>
-<img src="https://i.imgur.com/RDDVaI8.png" height="80%" width="80%" alt="Extracting GLPI"/>
+<img src="https://i.imgur.com/RDDVaI8.png" height="80%" width="80%" alt="Checking PHP"/>
 <br />
 <br />
 Installing PHP Extentions for GLPI:  <br/>
-<img src="https://i.imgur.com/IUYaJrx.png" height="80%" width="80%" alt="Downloaded GLPI.tgz Location"/>
+<img src="https://i.imgur.com/IUYaJrx.png" height="80%" width="80%" alt="Installing PHP Ext."/>
 <br />
 <br />
 Starting and Enabling the Maria Database Service:  <br/>
