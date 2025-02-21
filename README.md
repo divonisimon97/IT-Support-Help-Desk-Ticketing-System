@@ -65,7 +65,10 @@ Changing Ownership & Permissions in GLPI Directory:  <br/>
 <br />
 Restarting Apache2:  <br/>
 <img src="https://i.imgur.com/DgQQ0l5.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
- 
+<br />
+<br />
+Checking IP Address:  <br/>
+<img src="https://i.imgur.com/DgQQ0l5.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
  
  
  
