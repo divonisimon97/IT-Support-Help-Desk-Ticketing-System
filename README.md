@@ -1,4 +1,4 @@
-# <h1>IT Support Help Desk Ticketing System </h1>
+# <h1>IT Support Ticketing System – Built with MariaDB & Apache </h1>
 
 <h2>Description</h2>
 This project showcases the setup of a help desk ticketing system using MariaDB and an Apache web server on a localhost environment. The goal is to create an efficient system for tracking and managing IT support requests, simulating a real-world help desk workflow.
