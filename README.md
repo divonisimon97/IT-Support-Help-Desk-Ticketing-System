@@ -21,7 +21,7 @@ This project showcases the setup of a help desk ticketing system using MariaDB a
 
 <p align="center">
 Updating System w/ Dependencies: <br/>
-<img src="https://i.imgur.com/vo8TcsF.png" height="80%" width="80%" alt="Updating System w/ Dependencies"/>
+<img src="https://i.imgur.com/aToFMCa.png" height="80%" width="80%" alt="Updating System w/ Dependencies"/>
 <br />
 <br />
 Ensuring the LAMP stack is installed: <br/>
