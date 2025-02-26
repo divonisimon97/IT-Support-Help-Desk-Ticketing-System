@@ -21,112 +21,112 @@ This project showcases the setup of a help desk ticketing system using MariaDB a
 
 <p align="center">
 Updating System w/ Dependencies: <br/>
-<img src="https://i.imgur.com/aToFMCa.png" height="80%" width="80%" alt="Updating System w/ Dependencies"/>
+<img src="https://i.imgur.com/zdmcu8o.png" height="80%" width="80%" alt="Updating System w/ Dependencies"/>
 <br />
 <br />
 Ensuring the LAMP stack is installed: <br/>
-<img src="https://i.imgur.com/VnGcQqn.png" height="80%" width="80%" alt="Ensuring the LAMP stack"/>
+<img src="https://i.imgur.com/V5uA8Ru.png" height="80%" width="80%" alt="Ensuring the LAMP stack"/>
 <br />
 <br />
 Ensuring the MariaDB is installed:  <br/>
-<img src="https://i.imgur.com/0D4jUiI.png" height="80%" width="80%" alt="Ensuring the MariaDB"/>
+<img src="https://i.imgur.com/rftVawo.png" height="80%" width="80%" alt="Ensuring the MariaDB"/>
 <br />
 <br />
 Checking if PHP is Installed: <br/>
-<img src="https://i.imgur.com/RDDVaI8.png" height="80%" width="80%" alt="Checking PHP"/>
+<img src="https://i.imgur.com/COGOyAe.png" height="80%" width="80%" alt="Checking PHP"/>
 <br />
 <br />
 Installing PHP Extentions for GLPI:  <br/>
-<img src="https://i.imgur.com/IUYaJrx.png" height="80%" width="80%" alt="Installing PHP Ext."/>
+<img src="https://i.imgur.com/zdmcu8o.png" height="80%" width="80%" alt="Installing PHP Ext."/>
 <br />
 <br />
 Starting and Enabling the Maria Database Service:  <br/>
-<img src="https://i.imgur.com/f0s9VIV.png" height="80%" width="80%" alt="Start and enable the Maria database"/>
+<img src="https://i.imgur.com/Gwxevpc.png" height="80%" width="80%" alt="Start and enable the Maria database"/>
 <br />
 <br />
 Opening MariaDB & Creating a Database:  <br/>
-<img src="https://i.imgur.com/hgFsBIo.png" height="80%" width="80%" alt="Open MariaDB & Create a Database"/>
+<img src="https://i.imgur.com/uCarD8T.png" height="80%" width="80%" alt="Open MariaDB & Create a Database"/>
 <br />
 <br />
 Creating a Dedicated User & Granting Permissions to the GLPI User:  <br/>
-<img src="https://i.imgur.com/Tfm511x.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
+<img src="https://i.imgur.com/NzI9KD9.png" height="80%" width="80%" alt="Create & Grant Permissions to User"/>
 <br />
 <br />
 Go to /var/www/html Directory and List Permissions:  <br/>
-<img src="https://i.imgur.com/uD5ATva.png" height="80%" width="80%" alt="/var/www/html Directory and List Permissions"/>
+<img src="https://i.imgur.com/cUleVnl.png" height="80%" width="80%" alt="/var/www/html Directory and List Permissions"/>
 <br />
 <br />
 Download GLPI in /var/www/html Directory:  <br/>
-<img src="https://i.imgur.com/PjkQKPS.png" height="80%" width="80%" alt="Download GLPI"/>
+<img src="https://i.imgur.com/7npzZ10.png" height="80%" width="80%" alt="Download GLPI"/>
 <br />
 <br />
 Checking Directory Permissions:  <br/>
-<img src="https://i.imgur.com/ARhxMCU.png" height="80%" width="80%" alt="Checking Directory Permissions"/>
+<img src="https://i.imgur.com/w2KC3ih.png" height="80%" width="80%" alt="Checking Directory Permissions"/>
 <br />
 <br />
 Changing Ownership & Permissions in GLPI Directory:  <br/>
-<img src="https://i.imgur.com/hs4qYGE.png" height="80%" width="80%" alt="Changing Ownership & Permissions"/>
+<img src="https://i.imgur.com/YIR2rPw.png" height="80%" width="80%" alt="Changing Ownership & Permissions"/>
 <br />
 <br />
 Restarting Apache2:  <br/>
-<img src="https://i.imgur.com/DgQQ0l5.png" height="80%" width="80%" alt="Restarting Apache2"/>
+<img src="https://i.imgur.com/3xA9UOw.png" height="80%" width="80%" alt="Restarting Apache2"/>
 <br />
 <br />
 Checking IP Address:  <br/>
-<img src="https://i.imgur.com/DgQQ0l5.png" height="80%" width="80%" alt="Checking IP"/>
+<img src="https://i.imgur.com/h6NfQH2.png" height="80%" width="80%" alt="Checking IP"/>
 <br />
 <br />
-*** MAJOR UPDATE *** (the GLPI web server refused to connect until I...):  <br/>
-<img src="https://i.imgur.com/csvTCVn.png" height="80%" width="80%" alt="*** MAJOR UPDATE *** "/>
+*** PROBLEM SOLVED *** (the GLPI web server refused to connect until I...):  <br/>
+<img src="https://i.imgur.com/4nNOvbt.png" height="80%" width="80%" alt="*** MAJOR UPDATE *** "/>
 <br />
 <br />
 Inside the Configuration File, Ensure the Document Root Matches the Directory that the GLPI is in:  <br/>
-<img src="https://i.imgur.com/mcLclTK.png" height="80%" width="80%" alt="Ensure the Document Root"/>
+<img src="https://i.imgur.com/trlDZQC.png" height="80%" width="80%" alt="Ensure the Document Root"/>
 <br />
 <br />
 Then Fix Permissions:  <br/>
-<img src="https://i.imgur.com/rOYvBa8.png" height="80%" width="80%" alt="Fix Permissions"/>
+<img src="https://i.imgur.com/YIR2rPw.png" height="80%" width="80%" alt="Fix Permissions"/>
 <br />
 <br />
 NOW You Have Access to GLPI:  <br/>
-<img src="https://i.imgur.com/55QQz2X.png" height="80%" width="80%" alt="Access to GLPI"/>
+<img src="https://i.imgur.com/xOSePsI.png" height="80%" width="80%" alt="Access to GLPI"/>
 <br />
 <br />
 Install & Ensure PHP Installations:  <br/>
-<img src="https://i.imgur.com/a5EdS50.png" height="80%" width="80%" alt="Install & Ensure PHP"/>
+<img src="https://i.imgur.com/bo6Arwr.png" height="80%" width="80%" alt="Install & Ensure PHP"/>
 <br />
 <br />
 Database Connection Setup:  <br/>
-<img src="https://i.imgur.com/vGI4vVk.png" height="80%" width="80%" alt="Database Connection"/>
+<img src="https://i.imgur.com/3r9Bqla.png" height="80%" width="80%" alt="Database Connection"/>
 <br />
 <br />
 Inside the config_db.php file, add the MariaDB connection details:  <br/>
-<img src="https://i.imgur.com/Z9ZoJD8.png" height="80%" width="80%" alt="add the MariaDB connection details"/>
+<img src="https://i.imgur.com/I8tS7FH.png" height="80%" width="80%" alt="add the MariaDB connection details"/>
 <br />
 <br />
 Set Permissions on config-db.php & glpicrypt.key Files:  <br/>
-<img src="https://i.imgur.com/fzhUDv0.png" height="80%" width="80%" alt="Set Permissions"/>
+<img src="https://i.imgur.com/pZDfU9z.png" height="80%" width="80%" alt="Set Permissions"/>
 <br />
 <br />
-Enable Permissions Match the User & Type USE (your_database_name_here):  <br/>
-<img src="https://i.imgur.com/YTnkPKh.png" height="80%" width="80%" alt="Enable Permissions Match"/>
+Enable Permissions Match the User & Type "USE (your_database_name_here)":  <br/>
+<img src="https://i.imgur.com/lLVVS9I.png" height="80%" width="80%" alt="Enable Permissions Match"/>
 <br />
 <br />
 Proceed to Last Installation Page:  <br/>
-<img src="https://i.imgur.com/MDfIBCr.png" height="80%" width="80%" alt="Proceed"/>
+<img src="https://i.imgur.com/SP7OaLn.png" height="80%" width="80%" alt="Proceed"/>
 <br />
 <br />
 Login to GLPI w/ Default Credentials:  <br/>
-<img src="https://i.imgur.com/ytvmR9D.png" height="80%" width="80%" alt="Login"/>
-<img src="https://i.imgur.com/UKrexYf.png" height="80%" width="80%" alt="Login"/>
+<img src="https://i.imgur.com/8N36ecJ.png" height="80%" width="80%" alt="Login"/>
+<img src="https://i.imgur.com/bBWznpa.png" height="80%" width="80%" alt="Login"/>
 <br />
 <br />
 Remove the install.php File in the Install Directory & Restart Apache:  <br/>
-<img src="https://i.imgur.com/ztt2gk0.png" height="80%" width="80%" alt="Remove the install.php"/>
+<img src="https://i.imgur.com/SHB2Lev.png" height="80%" width="80%" alt="Remove the install.php"/>
 <br />
 <br />
 Done!:  <br/>
-<img src="https://i.imgur.com/0HqHzax.png" height="80%" width="80%" alt="Done"/>
+<img src="https://i.imgur.com/iHqvdaq.png" height="80%" width="80%" alt="Done"/>
 
 </p>
 
